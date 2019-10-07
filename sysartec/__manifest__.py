@@ -23,5 +23,6 @@
         'views/account_invoice.xml',
         'views/contacts_view.xml',
         'views/sale_order.xml',
+        'views/external_layout.xml',
     ],
 }

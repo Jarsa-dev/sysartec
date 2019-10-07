@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<odoo>
+    <template id="custom_footer_sysartec_standard" name="custom_Footer_sysartec_standard" inherit_id="web.external_layout_standard">
+        <xpath expr="//div[hasclass('o_standard_footer')]" position="replace">
+        </xpath>
+        <xpath expr="//div[hasclass('header')]" position="replace">
+            <div class="header"></div>
+        </xpath>
+    </template>
+</odoo>
